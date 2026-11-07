@@ -1,21 +1,137 @@
-# 💫 About Me:
-I'm a full-stack developer <br>I'm a software developer
+# 👋 Hi, I'm Manuka Mayurajith
 
+<div align="center">
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuka-mayurajith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manukamayurajith2001@gmail.com) 
+### Full-Stack Developer | Software Engineer | Mobile App Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manuka8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manuka8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuka8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building modern, scalable, and user-friendly digital experiences.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manuka8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manuka-mayurajith)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukamayurajith2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/manuka8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=manuka8&style=for-the-badge&color=0e75b6)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manuka8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** interested in building innovative software solutions and solving real-world problems through technology.
+
+- 💻 Passionate about Web and Mobile Application Development.
+- 📱 Interested in building cross-platform mobile applications.
+- 🌐 Experienced with modern frontend and backend technologies.
+- 🗄️ Interested in database design and scalable architectures.
+- 🤖 Exploring AI-powered applications and emerging technologies.
+- 🎯 Always learning, experimenting, and improving my development skills.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### 🎨 Frontend Development
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+### ⚙️ Backend Development
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![Apache](https://skillicons.dev/icons?i=apache)
+
+### 📱 Mobile Development
+
+![React Native](https://skillicons.dev/icons?i=react)
+![Expo](https://skillicons.dev/icons?i=expo)
+
+### 🗄️ Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+### ☁️ Deployment & Development Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![NPM](https://skillicons.dev/icons?i=npm)
+![Canva](https://skillicons.dev/icons?i=canva)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuka8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manuka8&theme=tokyonight&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuka8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=manuka8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Manuka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manuka8&theme=tokyo-night&hide_border=true)](https://github.com/manuka8)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exploring new technologies, and collaborating on interesting software projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuka_Mayurajith-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manuka-mayurajith)
+
+[![Email](https://img.shields.io/badge/Email-manukamayurajith2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manukamayurajith2001@gmail.com)
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
+
+---
+
+<div align="center">
+
+*Code. Create. Innovate. Repeat.*
+
+</div>
